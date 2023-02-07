@@ -13,6 +13,21 @@
 
 ###
 
+
+
+<div align="center" style="margin-Top:50px; margin-Bottom: 50px">
+  <a href="mailto:justjackypvp@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Mail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/jackyleech/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <img align="Center"  style="margin-Left:50px" height="150" src="https://avatars.githubusercontent.com/u/78201931?s=400&u=213a9c957646b87fd49270c3fe6039af812c504f&v=4"  />
+</div>
+
+###
+
+
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="30" width="42" alt="typescript logo"  />
@@ -24,26 +39,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="30" width="42" alt="jest logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" width="42" alt="figma logo"  />
 </div>
-
-###
-
-<div align="center">
-  <a href="mailto:justjackypvp@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/jackyleech/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
-
-<img align="right" height="150" src="https://avatars.githubusercontent.com/u/78201931?s=400&u=213a9c957646b87fd49270c3fe6039af812c504f&v=4"  />
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/JackyLee1230/JackyLee1230/blob/output/snake.svg" alt="Snake animation" />
-
-###
