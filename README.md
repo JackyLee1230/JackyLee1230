@@ -19,7 +19,7 @@
   <a href="mailto:justjackypvp@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Mail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
-  <a href="https://www.linkedin.com/in/jackyleech/" target="_blank">
+  <a href="https://www.linkedin.com/in/jackyleech/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
   <img align="Center"  style="margin-Left:50px" height="150" src="https://avatars.githubusercontent.com/u/78201931?s=400&u=213a9c957646b87fd49270c3fe6039af812c504f&v=4"  />
