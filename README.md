@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I am a Penultimate Year Computer Science student at the University of Hong Kong.</p>
+<p align="left">I am a Final Year Computer Science student at the University of Hong Kong.</p>
 
 ###
 
